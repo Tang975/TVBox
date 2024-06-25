@@ -1,0 +1,19 @@
+{
+    "version": "1.0",
+    "title": "My TVBox Sources",
+    "playlists": [
+      {
+        "name": "央视直播",
+        "url": "http://example.com/cctv1.m3u8"
+      },
+      {
+        "name": "湖南卫视",
+        "url": "http://example.com/hunan.m3u8"
+      },
+      {
+        "name": "体育频道",
+        "url": "http://example.com/sports.m3u8"
+      }
+    ]
+  }
+  
